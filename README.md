@@ -1,7 +1,5 @@
 ## <code><b>eventi Palermo 2018</b></code>
 <p>
-	
-L'obiettivo è <strong>divulgare conoscenza</strong> attraverso le <span class="btn btn-danger btn-xs">mappe</span>.
 </p>
 <p>
 
