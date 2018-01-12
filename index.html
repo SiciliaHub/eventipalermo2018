@@ -105,7 +105,7 @@
 			<div class="col-md-8 column">
 				<p>Catalogo <b>non ufficiale</b> degli <span class="btn btn-danger btn-xs"><b>eventi di Palermo capitale italiana della cultura 2018</b></span> come elencati nella Delibera di G.C. n. 276 del 28.12.2017 e nell' <a href="https://www.comune.palermo.it/noticext.php?cat=4&id=16940" target="_blank"><strong>Avviso del 9.01.2018</strong></a> <button type="button" class="btn btn-xs btn-pill btn-info"><b>del Comune di Palermo</b></button>.<br> 
 				   Visualizzazione a cura di <a href="http://opendatasicilia.it" target="_blank"><b>OpenDataSicilia</b></a>.<br>
-				   Nota: i luoghi, le date di inizio e fine eventi, e le descrizioni, sono stati inseriti cercando info su siti delle singole iniziative e sulla base delle info online delle edizioni passate</p>
+				   Nota: i luoghi, le date di inizio e fine eventi, e le descrizioni, sono stati inseriti cercando info su siti delle singole iniziative e sulla base delle info online delle edizioni passate.</p>
 			</div>
 			<div class="col-md-2 column">
 				<ul class="share-buttons">
@@ -166,8 +166,8 @@
 					<div ex:role="exhibit-view"
 					ex:viewClass="Exhibit.TabularView"
 					ex:label="Table"
-					ex:columns=".iniziativa,.URL2,.luogo,.inizio,.fine,.note"
-					ex:columnLabels="Titolo, Link utile, Luogo, Inizio, Fine, Descrizione"
+					ex:columns=".iniziativa,.luogo,.URL2,.inizio,.fine,.note"
+					ex:columnLabels="Titolo, Luogo, Link utile, Inizio, Fine, Descrizione"
 					ex:columnFormats="list,list,list,list,list,list"
 					ex:sortColumn="4"
 					ex:sortAscending="false"
@@ -177,8 +177,8 @@
 							<table class="table" ex:class-content=".titolo">
 								<tr>
 									<td><a ex:href-content=".URL" ex:onclick-subcontent="trackOutboundLink('{{.URL}}'); return false;" target="_blank"><strong><span ex:content=".iniziativa" class="accussì"></strong></span></a></td>
-									<td><a ex:if-exists=".URL2" ex:href-content=".URL2" target="_blank">apri</a></td>
 									<td><span ex:content=".luogo"></td>
+									<td><a ex:if-exists=".URL2" ex:href-content=".URL2" target="_blank">apri</a></td>
 									<td><span ex:content=".inizio" ></span></td>
 									<td><span ex:content=".fine" ></span></td>
 									<td><span ex:content=".note" ></span></td>
