@@ -5,9 +5,9 @@
 
 <p>Gli <button type="button" class="btn btn-sm btn-pill btn-success"><b>strumenti</b></button> strumenti principali usati per realizzare questa visualizzazione:</p>
 
-Catalogo non ufficiale degli eventi di Palermo capitale italiana della cultura 2018 come elencati nella Delibera di G.C. n. 276 del 28.12.2017 e nell' Avviso del 9.01.2018 del Comune di Palermo.
-Visualizzazione a cura di OpenDataSicilia. 
-I luoghi, le date di inizio e fine eventi, e le descrizioni, sono stati inseriti cercando info sui siti delle singole iniziative e sulla base delle info online delle edizioni passate.
+<p>Catalogo non ufficiale degli eventi di Palermo capitale italiana della cultura 2018 come elencati nella Delibera di G.C. n. 276 del 28.12.2017 e nell' Avviso del 9.01.2018 del Comune di Palermo.</p>
+<p>Visualizzazione a cura di OpenDataSicilia. </p>
+<p>I luoghi, le date di inizio e fine eventi, e le descrizioni, sono stati inseriti cercando info sui siti delle singole iniziative e sulla base delle info online delle edizioni passate.</p>
   <ul>
    <li><a href="http://www.simile-widgets.org/exhibit3/" target="_blank"><strong>Simile Exhibit</strong></a>, per realizzare il cuore, ovvero l'<strong>interfaccia di navigazione</strong> del catalogo;</li>
    <li><a href="http://getbootstrap.com" target="_blank"><strong>Twitter Boostrap</strong></a>, per dare un po' di <strong>stile</strong> alle pagine pubblicate;</li>
